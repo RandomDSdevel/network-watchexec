@@ -14,11 +14,11 @@ git clone -v --progress https://github.com/RandomDSdevel/network-watchexec.git "
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To build '`network-watchexec`:'  
 
- 1. (TO-DO/FIX ME:  Fill this in later once I've got the project up, running, and building.)  
+ 1. (**TO-DO/FIX ME:**  Fill this in later once I've got the project up, running, and building.)  
 
 ## Usage
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(TO-DO/FIX ME:  Provide usage instructions!)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(**TO-DO/FIX ME:**  Provide usage instructions!)  
 
 ## Inspirations
 
