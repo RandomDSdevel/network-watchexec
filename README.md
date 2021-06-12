@@ -20,6 +20,13 @@ git clone -v --progress https://github.com/RandomDSdevel/network-watchexec.git "
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(**TO-DO/FIX ME:**  Provide usage instructions!)  
 
+## Caveats
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently, the connection and disconnection event hook scripts this utility uses must exist and are hard-coded:  
+
+ - The connection hook script must be '`/usr/local/etc/network-watchexec/post-connection`.'  
+ - The disconnection hook script must be '`/usr/local/etc/network-watchexec/post-disconnection`.'  
+
 ## Inspirations
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'`network-watchexec`' was inspired by:  
